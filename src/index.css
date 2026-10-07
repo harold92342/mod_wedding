@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+}
+
+/* Custom luxury gold gradients & styling */
+.text-gold-gradient {
+  background: linear-gradient(135deg, #ECCF83 0%, #C89A2B 50%, #E5C378 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.text-gold-dark-gradient {
+  background: linear-gradient(135deg, #A77B1C 0%, #7E5B15 50%, #C89A2B 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gold-gradient {
+  background: linear-gradient(135deg, #DEB552 0%, #C89A2B 50%, #A77B1C 100%);
+}
+
+.bg-gold-shimmer {
+  background: linear-gradient(
+    90deg,
+    rgba(222, 181, 82, 0.1) 0%,
+    rgba(244, 227, 178, 0.4) 50%,
+    rgba(222, 181, 82, 0.1) 100%
+  );
+  background-size: 200% 100%;
+}
+
+.border-gold-subtle {
+  border-color: rgba(200, 154, 43, 0.25);
+}
+
+.shadow-gold-subtle {
+  box-shadow: 0 10px 30px -5px rgba(200, 154, 43, 0.15);
+}
+
+.gold-glow {
+  filter: drop-shadow(0 0 16px rgba(200, 154, 43, 0.35));
+}
+
+/* Subtle floral/ornamental pattern overlay */
+.bg-wedding-pattern {
+  background-color: #FAF8F5;
+  background-image: radial-gradient(#DEB552 0.75px, transparent 0.75px), radial-gradient(#DEB552 0.75px, #FAF8F5 0.75px);
+  background-size: 30px 30px;
+  background-position: 0 0, 15px 15px;
+  background-opacity: 0.04;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF8F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #DEB552;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #C89A2B;
+}

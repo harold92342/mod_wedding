@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://modeste-plamedie-wedding.vercel.app/sitemap.xml
