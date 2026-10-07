@@ -37,8 +37,8 @@ export const WEDDING_DATA = {
     wazeUrl: 'https://waze.com/ul?ll=-10.7000278,25.5179833&navigate=yes',
   },
   contact: {
-    whatsappPhone: '+243830541865',
-    whatsappDisplay: '+243 830 541 865',
+    whatsappPhone: '+243976356628',
+    whatsappDisplay: '+243 976 356 628',
   },
   gallery: [
     {
@@ -132,7 +132,7 @@ export function downloadIcsFile() {
  * Génère le lien direct WhatsApp avec un message pré-rempli
  */
 export function getWhatsAppUrl(prefilledMessage) {
-  const phone = '243830541865';
+  const phone = '243976356628';
   const defaultText = prefilledMessage || 'Bonjour Modeste & Plamédie, je vous écris concernant votre mariage du 10 octobre 2026.';
   return `https://wa.me/${phone}?text=${encodeURIComponent(defaultText)}`;
 }

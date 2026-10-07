@@ -15,7 +15,7 @@ Conformément au PRD et à la stricte règle de non-invention :
 - **Adresse :** Croisement de la 6ième Avenue et l'Avenue Kananga
 - **Ville & Pays :** Kolwezi, République Démocratique du Congo (RDC)
 - **Fuseau horaire :** Africa/Lubumbashi (UTC+2)
-- **Téléphone WhatsApp officiel :** `+243 830 541 865`
+- **Téléphone WhatsApp officiel :** `+243 976 356 628`
 - **Coordonnées GPS officielles :**
   - Latitude : `-10.7000278`
   - Longitude : `25.5179833`
@@ -45,7 +45,7 @@ Conformément au PRD et à la stricte règle de non-invention :
    - **Apple Calendar & Outlook (.ics) :** Téléchargement instantané d'un fichier conforme au standard RFC 5545.
 
 5. **Contact WhatsApp Interactif :**
-   - Relié directement au numéro officiel `+243 830 541 865`.
+   - Relié directement au numéro officiel `+243 976 356 628`.
    - Modèles de messages en un clic : félicitations, confirmation de présence (RSVP), question pratique ou saisie libre.
 
 6. **Galerie Photos & Lightbox Accessible :**
