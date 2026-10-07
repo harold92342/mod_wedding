@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://modeste-plamedie-wedding.vercel.app/sitemap.xml
+Sitemap: https://modwedding.vercel.app/sitemap.xml
