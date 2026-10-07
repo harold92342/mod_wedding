@@ -1,5 +1,5 @@
 import React from 'react';
-import { Heart, Sparkles } from 'lucide-react';
+import { Heart, BookOpen } from 'lucide-react';
 import { WEDDING_DATA } from '../data/weddingData';
 
 export default function StoryQuote() {
@@ -19,11 +19,14 @@ export default function StoryQuote() {
         {/* Section title */}
         <div className="space-y-2">
           <p className="text-xs uppercase tracking-widest font-semibold text-gold-700">
-            Une Promesse Éternelle
+            Une Promesse devant Jéhovah
           </p>
           <h2 className="font-serif text-3xl sm:text-4xl md:text-5xl font-bold text-stone-900">
-            L’Amour qui nous unit
+            « L’amour ne disparaît jamais »
           </h2>
+          <p className="text-xs font-sans uppercase tracking-widest text-stone-500 font-semibold">
+            1 Corinthiens 13:8
+          </p>
         </div>
 
         {/* Heartfelt words */}
@@ -32,7 +35,7 @@ export default function StoryQuote() {
             “
           </span>
           <p className="font-serif italic text-lg sm:text-2xl text-stone-700 leading-relaxed max-w-2xl mx-auto px-6">
-            C’est avec une immense joie et une profonde gratitude que nous vous convions à célébrer l’union de nos vies. Entourés de nos familles, de nos amis et de ceux qui nous sont chers, nous franchissons le pas d’une alliance bénie pour l’éternité.
+            C’est avec une immense joie et une profonde gratitude envers Jéhovah que nous vous convions à célébrer l’union de nos vies. Entourés de nos familles, de nos frères et sœurs et de nos amis, nous franchissons le pas d’un engagement fidèle, fondé sur l’amour véritable, la patience et le respect mutuel.
           </p>
           <span className="font-serif text-7xl sm:text-8xl text-gold-200 absolute -bottom-14 right-4 sm:right-10 select-none opacity-50">
             ”
@@ -54,9 +57,9 @@ export default function StoryQuote() {
             <div className="w-8 h-8 rounded-lg bg-gold-100 flex items-center justify-center text-gold-700 font-bold font-serif">
               01
             </div>
-            <h3 className="font-serif font-bold text-lg text-stone-900">L’Alliance</h3>
+            <h3 className="font-serif font-bold text-lg text-stone-900">L’Amour Véritable</h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-normal">
-              Un engagement sincère et fidèle, tissé dans le respect mutuel et la bienveillance.
+              « L’amour est patient et bon. » (1 Cor. 13:4). Un amour pur et sincère qui pardonne et persévère à travers chaque étape.
             </p>
           </div>
 
@@ -64,9 +67,9 @@ export default function StoryQuote() {
             <div className="w-8 h-8 rounded-lg bg-gold-100 flex items-center justify-center text-gold-700 font-bold font-serif">
               02
             </div>
-            <h3 className="font-serif font-bold text-lg text-stone-900">Le Partage</h3>
+            <h3 className="font-serif font-bold text-lg text-stone-900">La Corde Triple</h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-normal">
-              La joie d’accueillir nos proches pour partager un repas, des sourires et des danses inoubliables.
+              « Une corde triple ne se rompt pas facilement. » (Eccl. 4:12). Accorder la première place à Jéhovah pour fortifier notre couple.
             </p>
           </div>
 
@@ -74,9 +77,9 @@ export default function StoryQuote() {
             <div className="w-8 h-8 rounded-lg bg-gold-100 flex items-center justify-center text-gold-700 font-bold font-serif">
               03
             </div>
-            <h3 className="font-serif font-bold text-lg text-stone-900">La Bénédiction</h3>
+            <h3 className="font-serif font-bold text-lg text-stone-900">La Bénédiction de Jéhovah</h3>
             <p className="text-xs sm:text-sm text-stone-600 leading-normal">
-              Placer ce nouveau foyer sous la grâce et la protection divine pour toutes les années à venir.
+              « C’est la bénédiction de Jéhovah qui enrichit. » (Prov. 10:22). Bâtir un foyer paisible, uni et rayonnant d'hospitalité.
             </p>
           </div>
         </div>

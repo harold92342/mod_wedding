@@ -32,7 +32,7 @@ export default function Footer({ onOpenShare, onOpenCalendar }) {
           </div>
 
           <p className="text-stone-400 text-xs sm:text-sm max-w-md mx-auto">
-            Nous avons hâte de célébrer cette journée bénie à la {WEDDING_DATA.venue.name} à Kolwezi avec chacun d'entre vous.
+            Nous avons hâte de partager la joie de cette journée et de célébrer ce beau mariage à la {WEDDING_DATA.venue.name} à Kolwezi avec chacun d'entre vous.
           </p>
 
           {/* Quick buttons */}

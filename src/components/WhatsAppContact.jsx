@@ -7,7 +7,7 @@ export default function WhatsAppContact() {
     {
       id: 'wishes',
       label: 'Félicitations chaleureuses 💐',
-      text: 'Chers Modeste & Plamédie, toutes nos félicitations pour votre mariage à venir ! Que Dieu bénisse votre foyer d’abondance et de joie.',
+      text: 'Chers Modeste & Plamédie, toutes nos félicitations pour votre mariage ! Que Jéhovah bénisse abondamment votre union et fasse prospérer votre nouveau foyer.',
     },
     {
       id: 'rsvp',

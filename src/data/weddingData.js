@@ -12,7 +12,7 @@ export const WEDDING_DATA = {
   },
   event: {
     title: 'Mariage de Modeste & Plamédie',
-    subtitle: 'Union Sacrée & Célébration d’Amour',
+    subtitle: 'Une Corde Triple d’Amour & de Fidélité',
     dateDisplay: 'Samedi 10 Octobre 2026',
     timeDisplay: '16h00',
     fullDateTimeDisplay: 'Samedi 10 Octobre 2026 à 16h00',

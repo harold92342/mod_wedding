@@ -18,7 +18,7 @@ export default function Hero({ onOpenCalendar, onOpenShare }) {
             {/* Top Badge */}
             <div className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white/90 border border-gold-300 shadow-sm text-gold-700 text-xs sm:text-sm font-semibold tracking-widest uppercase">
               <Sparkles className="w-3.5 h-3.5 text-gold-500 animate-pulse" />
-              <span>Célébration d’Amour &amp; Union Sacrée</span>
+              <span>Mariage Honorable &amp; Célébration d’Amour</span>
             </div>
 
             {/* Couple Names */}
@@ -88,7 +88,7 @@ export default function Hero({ onOpenCalendar, onOpenShare }) {
               </a>
 
               <a
-                href={getWhatsAppUrl("Chers Modeste & Plamédie, toutes nos félicitations pour votre mariage à venir !")}
+                href={getWhatsAppUrl("Chers Modeste & Plamédie, toutes nos félicitations pour votre mariage ! Que Jéhovah bénisse votre union.")}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto px-6 py-3.5 rounded-full bg-[#25D366]/10 hover:bg-[#25D366] text-stone-900 hover:text-white border border-[#25D366]/30 font-sans text-sm font-semibold tracking-wider uppercase transition-all duration-300 shadow-sm flex items-center justify-center gap-2 group"
@@ -99,8 +99,8 @@ export default function Hero({ onOpenCalendar, onOpenShare }) {
             </div>
 
             {/* Warm Note */}
-            <p className="text-xs text-stone-500 pt-1 italic font-serif">
-              « Deux cœurs, une promesse, une vie entière pour s’aimer. »
+            <p className="text-xs text-stone-600 pt-1 italic font-serif">
+              « Une corde triple ne se rompt pas facilement. » — Ecclésiaste 4:12
             </p>
           </div>
 
